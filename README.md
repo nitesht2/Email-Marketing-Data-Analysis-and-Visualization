@@ -17,7 +17,7 @@ The marketing manager wants to find out key answers to the following questions f
 - Tableau
 
 ## Dashboard:
-The public line can be found [here](https://public.tableau.com/app/profile/nitesh.thapa/viz/EmailMarketingCampaignDashboard_16533555057360/EmailMarketingDashboard)
+The public link for the dashboard can be found [here](https://public.tableau.com/app/profile/nitesh.thapa/viz/EmailMarketingCampaignDashboard_16533555057360/EmailMarketingDashboard)
 
 ![image](https://user-images.githubusercontent.com/50633864/170101183-ae525d10-a854-4f09-8916-4311e7ceb1c2.png)
 
