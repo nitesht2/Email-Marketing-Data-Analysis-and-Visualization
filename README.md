@@ -3,7 +3,7 @@
 ## About
 In this project I will create a dashboard for an email marketing campaign that will give an overview and idea of how a marketing manager could use this dashboard to find the insight.
 
-Dataset can be found [here]()
+Dataset can be found [here](https://github.com/nitesht2/Email-Marketing-Data-Analysis-and-Visualization/blob/main/Email_marketing_Data.csv)
 
 ## Business Task:
 The marketing manager wants to find out key answers to the following questions for the campaign:
