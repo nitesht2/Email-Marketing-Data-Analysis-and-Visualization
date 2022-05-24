@@ -17,12 +17,18 @@ The marketing manager wants to find out key answers to the following questions f
 - Tableau
 
 ## Dashboard:
-The public line can be found [here]()
+The public line can be found [here](https://public.tableau.com/app/profile/nitesh.thapa/viz/EmailMarketingCampaignDashboard_16533555057360/EmailMarketingDashboard)
+
+![image](https://user-images.githubusercontent.com/50633864/170101183-ae525d10-a854-4f09-8916-4311e7ceb1c2.png)
+
 
 ## Findings:
 I found out that the click-through rate for the master email list is extremely low compared to the other two lists. The reasons for low click through might be due to following reason:
 - Poor Content
 - High Bounce Rate
+
+
+![image](https://user-images.githubusercontent.com/50633864/170100583-40eb0c68-4d82-4800-a307-1a4400d2cf1c.png)
 
 - Poor content can be tracked by using a metric called “unsubscribe rate”, which is in the raw data file. The unsubscribe rate is the percentage(%) of users who click unsubscribe from the email campaign list. The reason it is such a good metric is that, if customers are getting emails that they don’t care about, then most likely they will unsubscribe. Another way to summarize is, that if the customer is not opening the email then it means that the email tag line might not be great or the timing is not good for the customer to open. But if they unsubscribe then it is a strong indicator that the customer won't care about the content which means our content is poor.
 
